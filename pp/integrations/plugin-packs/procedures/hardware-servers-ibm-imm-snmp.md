@@ -10,7 +10,7 @@ title: IBM IMM
 Install this plugin on each needed poller:
 
 ``` shell
-yum install centreon-plugin-Hardware-servers-ibm-imm-snmp
+yum install centreon-plugin-Hardware-Servers-Ibm-Imm-Snmp
 ```
 
 ### SNMP
