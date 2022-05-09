@@ -220,8 +220,9 @@ The host panel contains the following elements:
 - **Details** tab: Detailed information about the host's current status. You can drag and drop tiles to rearrange them.
 - **Services** tab: A listing of its attached services and their current status (as well as their graphs if the corresponding mode is selected)
 - **Timeline** tab: The timeline of events that occurred for this host
-- **Graph** tab: graphs for the services for this host
--   Shortcuts to the configuration, logs and report for this host.
+- **Graph** tab: Graphs for the services for this host
+- **Notification** tab: Shows whether notifications are enabled for this host, and lists the contacts and contact groups that will be notified.
+- Shortcuts to the configuration, logs and report for this host.
 
 ![image](../assets/alerts/resources-status/resources-status-panel-host.gif)
 
@@ -235,6 +236,7 @@ The service panel contains the following elements:
 - **Details** tab: Detailed information about its current status. You can drag and drop tiles to rearrange them.
 - **Timeline** tab: The timeline of events that occured for this service
 - **Graph** tab: A graph with one curve per metric collected by this service
+- **Notification** tab: Shows whether notifications are enabled for this service, and lists the contacts and contact groups that will be notified.
 - Shortcuts to the configurations, logs and reports for this service and its
     related host.
 - Below the name of the service, the name of its parent host. Click it to open the host panel for the parent host.  
